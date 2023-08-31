@@ -18,6 +18,7 @@ Nankai University, Sep. 2014 -- Jun. 2018
 Publications
 ======
 **Asymmetric Polynomial Loss for Multi-Label Classification**
+
 Yushenghuang Huang, Jiexing Qi, Xinbing Wang, Zhouhan Lin
 
 Contact me
