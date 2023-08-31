@@ -20,7 +20,11 @@ Publications
 ======
 **Asymmetric Polynomial Loss for Multi-Label Classification**
 
-Yushenghuang Huang, Jiexing Qi, Xinbing Wang, Zhouhan Lin
+Y Huang, J Qi, X Wang, Z Lin
+
+**Text Classification In The Wild: A Large-Scale Long-Tailed Name Normalization Dataset**
+
+J Qi, S Li, Z Guo, Y Huang, C Zhou, W Zhang, X Wang, Z Lin
 
 Contact me
 ------
